@@ -1,0 +1,11 @@
+/* Estilo para la barra de navegación negra */
+.navbar-inverse {
+    background-color: black; /* Cambia el color de fondo a negro */
+  }
+  
+  /* Estilo para el texto en la barra de navegación */
+  .navbar-inverse ul.nav > li > a {
+    color: black; /* Cambia el color del texto a blanco */
+    font-size: 18px;
+  }
+  
